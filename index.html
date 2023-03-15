@@ -70,13 +70,27 @@
         <section>
             <h2>What's your thoughts on Photography and art?</h2>
             <p>Let's discuss a little about photography and art.</p>
-            <p>What do you think of it?</p>
             <form action="#">
-                <input type="text" name="thought-on-photography" placeholder="Your thought on Photography" />
-                <input type="text" name="name" required placeholder="what is your name?">
-                <label><input type="radio" id="like-photography" name="like-photography" value="like-photography">like photography</label>
-                <label><input type="radio" id="dont-like-photography" name="like-photography" value="dont-like-photography">don't like photography</label>
-                <button type="submit">Send</button>
+                <fieldset>
+                    <!--the legend has content that give context about the data they are to enter into the form-->
+                    <legend>What do you think of Photography?</legend>
+                    <input type="text" name="thought-on-photography" placeholder="Your thought on Photography" />
+                    <input type="text" name="name" required placeholder="what is your name?">
+                    <label><input type="radio" id="like-photography" name="like-photography" value="like-photography">like photography</label>
+                    <label><input type="radio" id="dont-like-photography" name="like-photography" value="dont-like-photography">don't like photography</label>
+                    <button type="submit">Send</button>
+                </fieldset>
+            </form>
+        </section>
+        <section>
+            <h2>Hobbies</h2>
+            <form action="#">
+                <fieldset>
+                    <legend>Which of the following are among your hobbies? </legend>
+                    <input type="checkbox" id="software-dev" name="hobby" value="software-dev"><label for="software-dev">Software Development</label>
+                    <input type="checkbox" id="photography" name="hobby" value="photography"><label for="photography">Photography</label>
+                    <input type="checkbox" id="art" name="hobby" value="art"><label for="art">Art</label>
+                </fieldset>
             </form>
         </section>
     </main>
