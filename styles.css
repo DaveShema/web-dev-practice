@@ -1,3 +1,10 @@
 h1,h2 {
     text-align: center;
 }
+body {
+    background-image: url(a-galaxy.jpg);
+}
+
+.a-new-div {
+    background-color: whitesmoke;
+}
