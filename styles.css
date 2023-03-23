@@ -8,3 +8,7 @@ body {
 .a-new-div {
     background-color: whitesmoke;
 }
+
+.center {
+    text-align: center;
+}
