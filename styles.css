@@ -2,7 +2,10 @@ h1,h2 {
     text-align: center;
 }
 body {
-    background-image: url(a-galaxy.jpg);
+    font-family: system-ui, sans-serif;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .a-new-div {
@@ -11,4 +14,22 @@ body {
 
 .center {
     text-align: center;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: Georgia,Cambria;
+}
+
+.galaxy-image {
+    max-width: 100%;
+}
+
+.my-photo {
+    max-width: 100%;
+}
+
+section {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
