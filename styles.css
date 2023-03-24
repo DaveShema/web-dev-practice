@@ -3,7 +3,7 @@ h1,h2 {
 }
 body {
     /* background-image: url(a-galaxy.jpg); */
-    font-family: system-ui;
+    font-family: system-ui, sans-serif;
 }
 
 .a-new-div {
