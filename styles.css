@@ -8,6 +8,7 @@ body {
     margin-right: auto;
     background-image: url(a-galaxy.jpg);
     color: #fff;
+    text-align: justify;
 }
 
 .a-new-div {
