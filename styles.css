@@ -43,3 +43,11 @@ section {
 a {
     color: #1dd;
 }
+
+a:visited {
+    color: #e0d;
+}
+
+a:hover {
+    color: #1d1;
+}
