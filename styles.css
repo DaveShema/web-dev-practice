@@ -25,6 +25,7 @@ h1,h2,h3,h4,h5,h6 {
 
 .galaxy-image {
     max-width: 100%;
+    border: 3px solid #fff;
 }
 
 .my-photo {
@@ -50,4 +51,12 @@ a:visited {
 
 a:hover {
     color: #1d1;
+}
+
+a:active {
+    color: #fff;
+}
+
+form {
+    max-width: 100%;
 }
