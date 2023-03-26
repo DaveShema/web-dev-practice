@@ -51,3 +51,7 @@ a:visited {
 a:hover {
     color: #1d1;
 }
+
+a:active {
+    color: #fff;
+}
