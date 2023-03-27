@@ -58,5 +58,11 @@ a:active {
 }
 
 form {
-    max-width: 100%;
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p,li{
+    font-size: 20px;
 }
