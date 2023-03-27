@@ -60,3 +60,7 @@ a:active {
 form {
     max-width: 100%;
 }
+
+p,li{
+    font-size: 20px;
+}
