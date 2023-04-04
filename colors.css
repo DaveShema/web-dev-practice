@@ -4,7 +4,7 @@ h1 {
 .container {
     width: 50%;
     margin: auto;
-    background-color: hsl(240, 100%, 5%);
+    background-color: hsl(240, 0%, 100%);
     padding: 20px 0 ;
 }
 
