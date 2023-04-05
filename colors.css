@@ -4,7 +4,7 @@ h1 {
 .container {
     width: 50%;
     margin: auto;
-    background-color: hsl(240, 0%, 100%);
+    background-color: hsl(0, 100%, 00%);
     padding: 20px 0 ;
 }
 
@@ -16,13 +16,13 @@ h1 {
 }
 
 .one {
-    background-color: #ffff00;
+    background: linear-gradient(90deg,#ffff00,#000000);
 }
 
 .two {
-    background-color: #0000ff;
+    background: linear-gradient(90deg, #0000ff,#000000);
 }
 
 .three {
-    background-color: #7f7fff;
+    background: linear-gradient(90deg, #7f7fff,#000000);
 }
