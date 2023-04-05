@@ -20,7 +20,7 @@ h1 {
 }
 
 .two {
-    background-color: #0000ff;
+    background: linear-gradient(90deg, #0000ff,#000000);
 }
 
 .three {
