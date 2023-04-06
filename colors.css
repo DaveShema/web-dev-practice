@@ -4,7 +4,7 @@ h1 {
 .container {
     width: 50%;
     margin: auto;
-    background-color: hsl(0, 100%, 00%);
+    background-color: hsl(0, 100%, 100%);
     padding: 20px 0 ;
 }
 
@@ -16,13 +16,13 @@ h1 {
 }
 
 .one {
-    background: linear-gradient(90deg,#ffff00,#000000);
+    background: linear-gradient(90deg,rgb(150,50,15) 0%,rgb(255,255,0) 50%,rgb(150,60,15) 100%);
 }
 
 .two {
-    background: linear-gradient(90deg, #0000ff,#000000);
+    background: linear-gradient(90deg,rgb(0,67,15) 0%,rgb(0,255,0)50%,rgb(0,60,15) 100%);
 }
 
 .three {
-    background: linear-gradient(90deg, #7f7fff,#000000);
+    background: linear-gradient(90deg, rgb(0,0,50) 0%, rgb(0,0,255) 50%, rgb(0,0,50));
 }
