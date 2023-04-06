@@ -16,7 +16,7 @@ h1 {
 }
 
 .one {
-    background: linear-gradient(90deg,#ffff00,#000000);
+    background: linear-gradient(90deg,rgb(5,5,0) 0%,rgb(245,245,0) 50%,rgb(10,10,0) 100%);
 }
 
 .two {
