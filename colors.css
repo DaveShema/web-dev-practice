@@ -4,7 +4,7 @@ h1 {
 .container {
     width: 50%;
     margin: auto;
-    background-color: hsl(0, 100%, 00%);
+    background-color: hsl(0, 100%, 100%);
     padding: 20px 0 ;
 }
 
@@ -16,7 +16,7 @@ h1 {
 }
 
 .one {
-    background: linear-gradient(90deg,rgb(5,5,0) 0%,rgb(245,245,0) 50%,rgb(10,10,0) 100%);
+    background: linear-gradient(90deg,rgb(150,50,15) 0%,rgb(255,255,0) 50%,rgb(150,60,15) 100%);
 }
 
 .two {
